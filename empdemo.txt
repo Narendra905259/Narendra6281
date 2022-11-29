@@ -1,0 +1,7 @@
+<html>
+<p>username :  </p>
+<p>userid :</p>
+<p> user password :</p>
+<p> phone number:</p>
+<p> address :</p>
+</html>
